@@ -1,5 +1,11 @@
 # OBD Insight
 
+![Swift](https://img.shields.io/badge/Swift-5-orange)
+![iOS](https://img.shields.io/badge/iOS-14%2B-blue)
+![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-green)
+![CoreData](https://img.shields.io/badge/Database-CoreData-purple)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
 iOS приложение для учета автомобилей и работы с OBD-данными.
 
 ## Технологии
