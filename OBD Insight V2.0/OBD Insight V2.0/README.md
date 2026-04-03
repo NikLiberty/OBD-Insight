@@ -8,6 +8,12 @@
 
 iOS приложение для учета автомобилей и работы с OBD-данными.
 
+## UI Concept
+
+Initial interface concepts of the application.
+
+![App Flow](design/app_flow_concept.png)
+
 ## Технологии
 
 - Swift
